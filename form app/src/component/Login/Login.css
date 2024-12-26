@@ -1,0 +1,38 @@
+h6{
+    font: Inter;
+    font-weight: 400;
+    size: 14px;
+    letter-spacing: 2%;
+    align-content: center;
+
+
+}
+input{
+    border-radius: 5px;
+    border: 1px;
+    
+}
+#ddd{
+    background-color: #1A5FFF;
+    text-align: center;
+    
+    
+}
+#ccc{
+    background-color: #1A5FFF;
+    text-align: center;
+    padding-left: 20px;
+}
+p{
+    color: #1A5FFF;
+}
+img{
+    height: 40px;
+    width: 40px;
+}
+#aaa{
+text-align: left;
+}
+#hhh{
+    text-align: left;
+}

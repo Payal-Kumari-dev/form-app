@@ -1,0 +1,65 @@
+ #ddd{
+    background-color: #1A5FFF;
+    text-align: center;
+    font-size: small;
+    
+    
+}
+#ccc{
+    background-color: #1A5FFF;
+    text-align: center;
+    padding-left: 10px;
+}
+h5{
+    color: #1A5FFF;;
+}
+#sss{
+    border-color: crimson;
+    color: crimson;
+
+}
+#fff{
+    color: crimson;
+    border-color: crimson;
+    border-radius: 4cm;
+    font-size: x-small;
+    
+}
+.help-block{
+    color: crimson;
+    font-size:x-small;
+}
+#div{
+    padding:10px;
+    border: 1px;
+    
+}
+#aaa{
+    font-size: x-small;
+
+}
+.help-blocked{
+    color: crimson;
+    font-size:xx-small;
+
+}
+
+
+#eee{
+
+    font-size: x-small;
+
+}
+#username{
+    font-size: small;
+}
+.class{
+    font-size: small;
+}
+#bbb{
+    font-size: x-small;
+}
+#label{
+    font-size: small;
+
+}
